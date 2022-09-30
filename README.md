@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![İmage](https://imgyukle.com/i/nekrHA)
+![image](https://www.hizliresim.com/p28kq1c)
